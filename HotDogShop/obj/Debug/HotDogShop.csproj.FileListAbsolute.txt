@@ -1,0 +1,12 @@
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\HotDogShop.exe.config
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\HotDogShop.exe
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\HotDogShop.pdb
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\EntityFramework.dll
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\EntityFramework.xml
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\obj\Debug\HotDogShop.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\obj\Debug\HotDogShop.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\obj\Debug\HotDogShop.exe
+C:\Users\anuar\source\repos\HotDogShop\HotDogShop\obj\Debug\HotDogShop.pdb
